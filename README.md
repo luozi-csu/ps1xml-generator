@@ -5,4 +5,4 @@
 python 2.7
 
 # 命令行
-python gen-ps1xml.py -b <basepath> -o <outpath>
+python gen-ps1xml.py -b <--basepath> -o <--outpath>
